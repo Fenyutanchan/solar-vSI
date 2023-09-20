@@ -7,4 +7,4 @@
 
 # Codes for _Shedding light on neutrino self-interactions with solar antineutrino searches_
 
-Please refer to [arXiv:2308.xxxxx](https://arxiv.org/abs/2308.xxxxx) for more infomation.
+Please refer to [arXiv:2308.15849](https://arxiv.org/abs/2308.15849) for more infomation.
